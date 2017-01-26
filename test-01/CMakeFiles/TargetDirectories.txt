@@ -1,0 +1,3 @@
+/Users/k.emelyanov/myprojects/watchme/CMakeFiles/edit_cache.dir
+/Users/k.emelyanov/myprojects/watchme/CMakeFiles/rebuild_cache.dir
+/Users/k.emelyanov/myprojects/watchme/CMakeFiles/BlurImage.dir
